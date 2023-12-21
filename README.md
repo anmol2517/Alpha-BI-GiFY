@@ -1,8 +1,8 @@
-# Project Overview
+## Project Overview
 
 In this technical test, the candidate is required to design and develop a Next.js application that incorporates Firebase Authentication for user login and registration. The application's main feature is a GIF search functionality powered by the GIPHY API. Additionally, the candidate has the option to implement additional tasks, such as marking GIFs as favorites, hot searching, loading animations, and hosting the app on Vercel or GitHub Pages.
 
-# Authentication Requirements
+## Authentication Requirements
 
 - Users must be able to log in using their email and password or sign up for a new account.
 
@@ -10,15 +10,19 @@ In this technical test, the candidate is required to design and develop a Next.j
 
 - Reference: https://firebase.google.com/docs/auth
 
-# GIF Search and Gallery
+## GIF Search and Gallery
+
 - The application should use the GIPHY API to display a gallery of GIFs based on user-searched keywords.
 
 - API Documentation: https://developers.giphy.com/branch/master/docs/api
 
-# TO-DO
+## TO-DO
+
 - Marking GIFs as favorites
 - Hot searching, loading animations
 
-ScreenShot
 
-![Alpha BI Assesment 1 GiF](https://github.com/anmol2517/Alpha-BI-GiFY/assets/110680449/8179ab1d-947f-4fa5-aa34-ce038d9f4785)
+# ScreenShot
+
+![Alpha BI ](https://github.com/krishnnaa15/Alpha-BI-GiF-Assesment/assets/141332207/d7a7ee7e-10a8-4195-a1b6-0f1b45012392)
+
